@@ -4,6 +4,8 @@ using PruebaFinazautos.Core.Ports;
 
 namespace PruebaFinazautos.Api.Controller
 {
+    [ApiController]
+    [Route("api/Course")]
     public class CourseController : ControllerBase
     {
         private readonly ICourseRespository _courseRespository;

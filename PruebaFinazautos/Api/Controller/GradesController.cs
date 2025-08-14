@@ -5,6 +5,8 @@ using PruebaFinazautos.Infrastructure.Repositories;
 
 namespace PruebaFinazautos.Api.Controller
 {
+    [ApiController]
+    [Route("api/grades")]
     public class GradesController : ControllerBase
     {
         private readonly IGradeRepository _gradeRepository;
