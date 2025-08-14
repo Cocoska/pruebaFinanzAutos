@@ -3,12 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\api\\controller\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|solutionrelative:pruebafinazautos\\api\\controller\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\api\\controller\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|solutionrelative:pruebafinazautos\\api\\controller\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\infrastructure\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|solutionrelative:pruebafinazautos\\infrastructure\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\infrastructure\\repositories\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|solutionrelative:pruebafinazautos\\infrastructure\\repositories\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\infrastructure\\data\\finanzautosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|solutionrelative:pruebafinazautos\\infrastructure\\data\\finanzautosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\infrastructure\\repositories\\teacherrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|solutionrelative:pruebafinazautos\\infrastructure\\repositories\\teacherrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\api\\controller\\stundentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|solutionrelative:pruebafinazautos\\api\\controller\\stundentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\core\\ports\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|solutionrelative:pruebafinazautos\\core\\ports\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\core\\ports\\icourserespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|solutionrelative:pruebafinazautos\\core\\ports\\icourserespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\core\\entities\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|solutionrelative:pruebafinazautos\\core\\entities\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\core\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|solutionrelative:pruebafinazautos\\core\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\api\\controller\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|solutionrelative:pruebafinazautos\\api\\controller\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|solutionrelative:pruebafinazautos\\infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\core\\ports\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|solutionrelative:pruebafinazautos\\core\\ports\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\core\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|solutionrelative:pruebafinazautos\\core\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\core\\ports\\istudentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|solutionrelative:pruebafinazautos\\core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\infrastructure\\data\\finanzautosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|solutionrelative:pruebafinazautos\\infrastructure\\data\\finanzautosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D02FF577-C5BB-4FD5-B609-A93B44118E61}|PruebaFinazautos\\PruebaFinazautos.csproj|c:\\users\\jcmc1\\documents\\prueba finazautos\\pruebafinazautos\\pruebafinazautos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -47,40 +95,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GradesController.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Api\\Controller\\GradesController.cs",
+              "RelativeDocumentMoniker": "PruebaFinazautos\\Api\\Controller\\GradesController.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Api\\Controller\\GradesController.cs",
+              "RelativeToolTip": "PruebaFinazautos\\Api\\Controller\\GradesController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:54:07.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GradeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Infrastructure\\Repositories\\GradeRepository.cs",
+              "RelativeDocumentMoniker": "PruebaFinazautos\\Infrastructure\\Repositories\\GradeRepository.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Infrastructure\\Repositories\\GradeRepository.cs",
+              "RelativeToolTip": "PruebaFinazautos\\Infrastructure\\Repositories\\GradeRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:35:17.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGradeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Core\\Ports\\IGradeRepository.cs",
+              "RelativeDocumentMoniker": "PruebaFinazautos\\Core\\Ports\\IGradeRepository.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Core\\Ports\\IGradeRepository.cs",
+              "RelativeToolTip": "PruebaFinazautos\\Core\\Ports\\IGradeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:33:05.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Api\\Controller\\CourseController.cs",
+              "RelativeDocumentMoniker": "PruebaFinazautos\\Api\\Controller\\CourseController.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Api\\Controller\\CourseController.cs",
+              "RelativeToolTip": "PruebaFinazautos\\Api\\Controller\\CourseController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:17:05.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Infrastructure\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "PruebaFinazautos\\Infrastructure\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Infrastructure\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "PruebaFinazautos\\Infrastructure\\Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:04:32.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Api\\Controller\\TeacherController.cs",
+              "RelativeDocumentMoniker": "PruebaFinazautos\\Api\\Controller\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Api\\Controller\\TeacherController.cs",
+              "RelativeToolTip": "PruebaFinazautos\\Api\\Controller\\TeacherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:47:36.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "StundentController.cs",
               "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Api\\Controller\\StundentController.cs",
               "RelativeDocumentMoniker": "PruebaFinazautos\\Api\\Controller\\StundentController.cs",
               "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Api\\Controller\\StundentController.cs",
               "RelativeToolTip": "PruebaFinazautos\\Api\\Controller\\StundentController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAA3wC0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wBIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T18:49:31.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Api\\Program.cs",
-              "RelativeDocumentMoniker": "PruebaFinazautos\\Api\\Program.cs",
-              "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Api\\Program.cs",
-              "RelativeToolTip": "PruebaFinazautos\\Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "TeacherRespository.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Infrastructure\\Repositories\\TeacherRespository.cs",
+              "RelativeDocumentMoniker": "PruebaFinazautos\\Infrastructure\\Repositories\\TeacherRespository.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Infrastructure\\Repositories\\TeacherRespository.cs",
+              "RelativeToolTip": "PruebaFinazautos\\Infrastructure\\Repositories\\TeacherRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T17:58:47.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Infrastructure\\Repositories\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "PruebaFinazautos\\Infrastructure\\Repositories\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Infrastructure\\Repositories\\StudentRepository.cs",
-              "RelativeToolTip": "PruebaFinazautos\\Infrastructure\\Repositories\\StudentRepository.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAnwCwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T17:42:32.866Z",
+              "WhenOpened": "2025-08-14T21:25:00.214Z",
               "EditorCaption": ""
             },
             {
@@ -91,14 +204,104 @@
               "RelativeDocumentMoniker": "PruebaFinazautos\\Infrastructure\\Data\\FinanzAutosDbContext.cs",
               "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Infrastructure\\Data\\FinanzAutosDbContext.cs",
               "RelativeToolTip": "PruebaFinazautos\\Infrastructure\\Data\\FinanzAutosDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowBMAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAxwB8AAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T17:18:44.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "PruebaFinazautos\\Infrastructure\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "PruebaFinazautos\\Infrastructure\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:42:32.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICourseRespository.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Core\\Ports\\ICourseRespository.cs",
+              "RelativeDocumentMoniker": "PruebaFinazautos\\Core\\Ports\\ICourseRespository.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Core\\Ports\\ICourseRespository.cs",
+              "RelativeToolTip": "PruebaFinazautos\\Core\\Ports\\ICourseRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:22:15.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Core\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "PruebaFinazautos\\Core\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Core\\Entities\\Course.cs",
+              "RelativeToolTip": "PruebaFinazautos\\Core\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:20:43.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Grades.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Core\\Entities\\Grades.cs",
+              "RelativeDocumentMoniker": "PruebaFinazautos\\Core\\Entities\\Grades.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Core\\Entities\\Grades.cs",
+              "RelativeToolTip": "PruebaFinazautos\\Core\\Entities\\Grades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:19:08.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Core\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "PruebaFinazautos\\Core\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Core\\Entities\\Teacher.cs",
+              "RelativeToolTip": "PruebaFinazautos\\Core\\Entities\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:16:01.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Core\\Ports\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "PruebaFinazautos\\Core\\Ports\\ITeacherRepository.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Core\\Ports\\ITeacherRepository.cs",
+              "RelativeToolTip": "PruebaFinazautos\\Core\\Ports\\ITeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:15:20.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaFinazautos\\Api\\Program.cs",
+              "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Api\\Program.cs",
+              "RelativeToolTip": "PruebaFinazautos\\Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:58:47.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "PruebaFinazautos.csproj",
               "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\PruebaFinazautos.csproj",
               "RelativeDocumentMoniker": "PruebaFinazautos\\PruebaFinazautos.csproj",
@@ -106,25 +309,24 @@
               "RelativeToolTip": "PruebaFinazautos\\PruebaFinazautos.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-14T17:14:26.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T17:14:26.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "IStudentsRepository.cs",
               "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Core\\Ports\\IStudentsRepository.cs",
               "RelativeDocumentMoniker": "PruebaFinazautos\\Core\\Ports\\IStudentsRepository.cs",
               "ToolTip": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Core\\Ports\\IStudentsRepository.cs",
               "RelativeToolTip": "PruebaFinazautos\\Core\\Ports\\IStudentsRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwA4AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T17:05:45.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\Core\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "PruebaFinazautos\\Core\\Entities\\Student.cs",
@@ -132,12 +334,11 @@
               "RelativeToolTip": "PruebaFinazautos\\Core\\Entities\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T17:00:48.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T17:00:48.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jcmc1\\Documents\\prueba Finazautos\\PruebaFinazautos\\PruebaFinazautos\\appsettings.json",
               "RelativeDocumentMoniker": "PruebaFinazautos\\appsettings.json",
@@ -145,8 +346,7 @@
               "RelativeToolTip": "PruebaFinazautos\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-14T19:28:42.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T19:28:42.712Z"
             }
           ]
         }

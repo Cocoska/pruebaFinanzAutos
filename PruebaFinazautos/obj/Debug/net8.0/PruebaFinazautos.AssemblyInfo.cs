@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PruebaFinazautos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8eb8609d4844f936b2423cd7be8801d75b22a0e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PruebaFinazautos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PruebaFinazautos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
